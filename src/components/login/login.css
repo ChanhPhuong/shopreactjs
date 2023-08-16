@@ -1,0 +1,81 @@
+.login-container {
+    width: auto;
+    height: 380px;
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+}
+
+.register-container {
+    width: auto;
+    height: 550px;
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+}
+
+.form-heading {
+    padding-top: 18px;
+}
+
+.inputlogin {
+    width: 400px;
+    padding: 10px 5px;
+    height: 40px;
+    outline: none;
+    background: #1618230f;
+    border: #1618230f;
+    margin-bottom: 10px;
+}
+
+.inputaddress {
+    width: 190px;
+    padding: 10px 5px;
+    height: 40px;
+    outline: none;
+    background: #1618230f;
+    border: #1618230f;
+    margin-bottom: 10px;
+}
+
+.inputaddress {
+    margin-left: 4px;
+    width: 198px;
+    padding: 10px 5px;
+    height: 40px;
+    outline: none;
+    background: #1618230f;
+    border: #1618230f;
+    margin-bottom: 10px;
+}
+
+.input-2 i.fa-solid {
+    right: 568px;
+    position: absolute;
+    top: 12px;
+}
+
+.input-2 {
+    position: relative;
+}
+
+.inputlogin:hover {
+    background-color: #dedede;
+    border: 1px silver #dedede;
+}
+
+.loginn {
+    color: white;
+    background-color: #fe2c55;
+    margin-top: 15px;
+    width: 400px;
+    height: 38px;
+    outline: none;
+    border-radius: 3px;
+    padding: 10px;
+    border: none;
+}
+
+a.login-register {
+    color: #fe2c55;
+}
